@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Rom-dev-tech.github.io/IceCreame",
+  "homepage": "https://VitaliyVovk76.github.io/IceCreame",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
